@@ -1,0 +1,10 @@
+name: myshinyapp
+title:
+username: sachinmypack
+account: sachinmypack
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12626623
+bundleId: 9069219
+url: https://sachinmypack.shinyapps.io/myshinyapp/
+version: 1
